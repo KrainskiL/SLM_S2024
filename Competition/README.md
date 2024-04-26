@@ -17,3 +17,28 @@ Please check whether the ordering of predictions is consistent with the observat
 Table with ranking will appear in this README file. Best team in each course group will receive 5 points, next 4 points, etc.
 
 Good luck!
+
+## Results
+
+Group 13 (class at 9:50)
+
+| **Team**          | **F1-score** | **Points** | **Model** | **Language**              |
+|---------------------|--------------|------------|-----------|------------------------|
+| Idea Squad             | 78,96 | 5 | Random Forest           | Python |
+| Random Experts         | 78,72 | 4 | ?                       | ?      |
+|  Big Head & Little Pig | 78,67 | 3 | Random Forest           | Python |
+| ML Dream Team          | 76,73 | 2 | XGBoost (Boosted Trees) | Python |
+| Gucci                  | 70,31 | 1 | Logistic Regression     | Python |
+
+Group 11 (class at 11:40)
+
+| **Team**          | **F1-score** | **Points** | **Model** | **Language**              |
+|---------------------|--------------|------------|-----------|------------------------|
+| 2Slavs       | 78,58 | 5 | Random Forest       | Python |
+| Data Wizards | 78,54 | 4 | Random Forest       | Python |
+| Alpha        | 76,39 | 3 | CART                | Python |
+| Big Mac      | 66,24* | 2 | Logistic Regression | Python |
+| NAM          | ?     | 1 | CART                | Python |
+| Group 1      | ?     | 1 | Deep Neural Network | Python |
+
+\* first 5000 predictions used in evaluation
