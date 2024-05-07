@@ -3,7 +3,11 @@
 Teams should consist of 1-3 members. Please name the team - name will appear in the results table (can be anything you come up with but please avoid PII data in the group name e.g. surnames).
 
 ### Dataset and competition's goal
-Goal of the competition is to achieve highest **[F1-score](https://en.wikipedia.org/wiki/F-score)** in classification of target variable **IsIPA**. To create a model please use **IPA.csv** dataset (used it for both train and validation dataset) and predict labels on **IPA_test.csv** data. Description of dataset features can be found in **IPA_description.txt**.
+Goal of the competition is to achieve highest:
+* Groups 11 and 13 - **[F1-score](https://en.wikipedia.org/wiki/F-score)**
+* Group 12 - **accuracy**
+
+in classification of target variable **IsIPA**. To create a model please use **IPA.csv** dataset (used it for both train and validation dataset) and predict labels on **IPA_test.csv** data. Description of dataset features can be found in **IPA_description.txt**.
 
 ### Results delivery
 Please send the results to _lkrain@sgh.waw.pl_ by the end of the class.
