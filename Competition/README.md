@@ -46,3 +46,16 @@ Group 11 (class at 11:40)
 | Group 1      | ?     | 1 | Deep Neural Network | Python |
 
 \* first 5000 predictions used in evaluation
+
+Group 12 (class at 11:40)
+
+| **Team**     | **Accuracy** | **Points** | **Model**     | **Language** |
+|--------------|--------------|------------|---------------|--------------|
+| Data Masters | 87,02        | 5          | Random Forest | Python       |
+| Solo         | 86,98        | 4          | Random Forest | Python       |
+| PTC          | 86,92        | 3          | Random Forest | Python       |
+| IPA          | 86,92        | 3          | Random Forest | Python       |
+| Team Team    | 86,76        | 2          | Random Forest | Python       |
+| VC           | 86,68        | 1          | Random Forest | Python       |
+| Pivo         | 85,92        | 0          | Boosted Trees | Python       |
+| BoberK       | 84,48        | 0          | Random Forest | Python       |
